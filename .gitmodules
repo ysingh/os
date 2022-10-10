@@ -1,0 +1,12 @@
+[submodule ".\\6200-tools\\"]
+	path = .\\6200-tools\\
+	url = ../6200-tools
+[submodule ".\\pr1\\"]
+	path = .\\pr1\\
+	url = ../pr1
+[submodule ".\\pr3\\"]
+	path = .\\pr3\\
+	url = ../pr3
+[submodule ".\\rough-dotfiles\\"]
+	path = .\\rough-dotfiles\\
+	url = ../rought-dotfiles
